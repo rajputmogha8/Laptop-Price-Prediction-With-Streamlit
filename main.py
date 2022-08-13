@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
-
+pip install pywin32==304
 # import the model
 pipe = pickle.load(open('pipe.pkl','rb'))
 df = pickle.load(open('df.pkl','rb'))
