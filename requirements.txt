@@ -91,14 +91,4 @@ tornado==6.1
 traitlets==5.1.1
 typing_extensions==4.2.0
 tzdata==2022.1
-tzlocal==4.2
-urllib3==1.26.9
-validators==0.19.0
-watchdog==2.1.8
-wcwidth==0.2.5
-webencodings==0.5.1
-Werkzeug==2.1.2
-widgetsnbextension==3.6.0
-wincertstore==0.2
-wrapt==1.14.1
-zipp==3.8.0
+
